@@ -853,6 +853,10 @@ exports.BattleTextAFD = {
 	throatchop: {
 		cant: "The effects of Throat Chop prevent [POKEMON] from using certain moves!",
 	},
+	torchtrap: {
+		start: "  Flaming torches were scattered on the ground all around [TEAM]!",
+		end: "  The flaming torches on the ground around [TEAM] went out!",
+	},
 	torment: {
 		start: "  [POKEMON] was subjected to torment!",
 		end: "  [POKEMON]'s torment wore off!",
